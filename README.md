@@ -2,6 +2,10 @@
 <img src="https://www.linkpicture.com/q/Hi-There.png" width="600" height="200" />
 </p>
 
+Here are some ideas to get you started:
+
+-->
+<p align="center">
 <details>
 <summary>"Click to expand"</summary>
 
@@ -17,6 +21,4 @@
 </details>
 
 
-Here are some ideas to get you started:
-
--->
+</p>
