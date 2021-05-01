@@ -1,5 +1,5 @@
 
-![]<img src="https://s3.gifyu.com/images/20039f413e83390fcb7.gif" width="1000" height="400" />
+<img src="https://s3.gifyu.com/images/20039f413e83390fcb7.gif" width="1000" height="400" />
 
 
 Here are some ideas to get you started:
@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ................
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...     [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin")
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
+- ⚡ Fun fact: ... I tried to write these at 2:20 midnight
 -->
