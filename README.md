@@ -1,4 +1,4 @@
-![](https://gfycat.com/meagerhardtofindalbertosaurus)
+![](https://s3.gifyu.com/images/20039f413e83390fcb7.gif)
 
 Here are some ideas to get you started:
 
