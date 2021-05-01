@@ -1,6 +1,6 @@
-
+<p align="center">
 <img src="https://www.linkpicture.com/q/Hi-There.png" width="600" height="200" />
-
+</p>
 
 Here are some ideas to get you started:
 
