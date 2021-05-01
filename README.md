@@ -1,4 +1,4 @@
-<img src="https://gfycat.com/meagerhardtofindalbertosaurus" width="40" height="40" />
+![](https://gfycat.com/meagerhardtofindalbertosaurus)
 
 Here are some ideas to get you started:
 
