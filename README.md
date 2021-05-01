@@ -4,10 +4,9 @@
 
 Here are some ideas to get you started:
 
--->
-<p align="center">
+
 <details>
-<summary>"Click to expand"</summary>
+<summary>👉Click to expand👈</summary>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
@@ -20,5 +19,3 @@ Here are some ideas to get you started:
 - 
 </details>
 
-
-</p>
