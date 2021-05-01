@@ -2,6 +2,12 @@
 <img src="https://www.linkpicture.com/q/Hi-There.png" width="600" height="200" />
 </p>
 
+<details>
+<summary>"Click to expand"</summary>
+this is hidden block
+</details>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
