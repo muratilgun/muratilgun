@@ -1,5 +1,5 @@
 
-<img src="https://www.linkpicture.com/q/Hi-There.png"/>
+<img src="https://www.linkpicture.com/q/Hi-There.png" width="600" height="200" />
 
 
 Here are some ideas to get you started:
