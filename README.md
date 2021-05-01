@@ -1,5 +1,4 @@
-
-![](https://svgshare.com/i/WrQ.svg)
+<img src="https://gfycat.com/meagerhardtofindalbertosaurus" width="40" height="40" />
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-~~this~~
