@@ -4,11 +4,6 @@
 
 <details>
 <summary>"Click to expand"</summary>
-this is hidden block
-</details>
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
@@ -18,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...     [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin")
 - 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
 - ⚡ Fun fact: ... I tried to write these at 2:20 midnight
+- 
+</details>
+
+
+Here are some ideas to get you started:
+
 -->
