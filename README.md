@@ -1,5 +1,5 @@
 
-<img src="https://s3.gifyu.com/images/20039f413e83390fcb7.gif" width="1000" height="400" />
+<img src="https://www.linkpicture.com/q/Hi-There.png" width="1000" height="400" />
 
 
 Here are some ideas to get you started:
