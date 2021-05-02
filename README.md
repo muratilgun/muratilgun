@@ -2,11 +2,12 @@
 <img src="https://www.linkpicture.com/q/Hi-There.png" width="600" height="200" />
 </p>
 
+<p align="center">
 Here are some ideas to get you started:
-
+</p>
 
 <details>
-<summary>👉Click to expand👈</summary>
+<p align="center"> <summary>👉Click to expand👈</summary> </p>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
