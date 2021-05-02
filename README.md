@@ -4,8 +4,10 @@
 
 <p align="center">
 Here are some ideas to get you started:
-  <details>
-___________<p align="center"> <summary>👉Click to expand👈</summary> </p>
+</p>
+
+<details>
+ <summary>________👉Click to expand👈</summary>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
@@ -16,7 +18,6 @@ ___________<p align="center"> <summary>👉Click to expand👈</summary> </p>
 - 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
 - ⚡ Fun fact: ... I tried to write all of  this at 2:20 midnight
 </details>
-</p>
 
 
 
