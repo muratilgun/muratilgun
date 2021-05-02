@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <details>
  <summary><b>____________________________________________________________👉Click to expand👈___________________________________________________________</b></summary>
 
-- 🔭 <b> I’m currently working on ... </b> Make world great place again 🌍
+<p align="center"> - 🔭 <b> I’m currently working on ... </b> Make world great place again 🌍 </p>
 - 🌱 <b> I’m currently learning ... </b> What do you want to teach me ❓
 - 👯 <b> I’m looking to collaborate on ... </b> 👀👀 👂👂
 - 🤔 <b> I’m looking for help with ................. </b>
