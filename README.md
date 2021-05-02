@@ -4,9 +4,7 @@
 
 <p align="center">
 Here are some ideas to get you started:
-</p>
-
-<details>
+  <details>
 <p align="center"> <summary>👉Click to expand👈</summary> </p>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
@@ -18,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
 - ⚡ Fun fact: ... I tried to write all of  this at 2:20 midnight
 </details>
+</p>
+
+
 
