@@ -4,7 +4,7 @@
 
 <p align="center"><b>
 Here are some ideas to get you started:
- </b>
+</b>
 </p>
 
 <details>
@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I tried to write all of  this at 2:20 midnight
 </details>
 
-
-<div style="text-align: center;">
-    <span style="border:1px solid red;">
-        This is some text in a div element!
-    </span>
-</div>
