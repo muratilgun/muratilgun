@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...     [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin")
 - 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
-- ⚡ Fun fact: ... I tried to write these at 2:20 midnight
-- 
+- ⚡ Fun fact: ... I tried to write all of  this at 2:20 midnight
+- ✉️ [Contact Me](mailto:muratilgun34@gmail.com)
 </details>
 
