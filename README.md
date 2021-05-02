@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 <p align="center"> - 👯 <b> I’m looking to collaborate on ... </b> 👀👀 👂👂 </p>
 <p align="center"> - 🤔 <b> I’m looking for help with ................. </b> </p>
 <p align="center"> - 💬 <b> Ask me about ... </b> Anything </p>
-<p align="center"> - 📫 <b> How to reach me: ... </b>    [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin") |  [✉️](mailto:muratilgun34@gmail.com) </p>
+<p align="center"> - 📫 <b> How to reach me: ... </b>   Contact Me! </p>
 <p align="center"> - 😄 <b> Pronouns: ...  </b> Muro/Murat (Şahsına münasır) </p>
 <p align="center"> - ⚡ <b> Fun fact: ... </b> I tried to write all of  this at 2:20 at midnight </p>
 </details>
 
+
+ [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin") |  [✉️](mailto:muratilgun34@gmail.com)
