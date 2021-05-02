@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </details>
 
 
-
-<span style="margin:auto; display:table; border:1px solid red;">
-    This is some text in a div element!
-</span>
+<div style="text-align: center;">
+    <span style="border:1px solid red;">
+        This is some text in a div element!
+    </span>
+</div>
