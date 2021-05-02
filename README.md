@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 </p>
 
 <details>
