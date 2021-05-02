@@ -5,7 +5,7 @@
 <p align="center">
 Here are some ideas to get you started:
   <details>
-<p align="center"> <summary>👉Click to expand👈</summary> </p>
+___________<p align="center"> <summary>👉Click to expand👈</summary> </p>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
