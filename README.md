@@ -4,6 +4,9 @@
 
 <p align="center"><b>
 Here are some ideas to get you started:
+ 
+  Contact Me => [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin") |  [✉️](mailto:muratilgun34@gmail.com)
+
 </b>
 </p>
 
@@ -21,4 +24,3 @@ Here are some ideas to get you started:
 </details>
 
 
- [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin") |  [✉️](mailto:muratilgun34@gmail.com)
