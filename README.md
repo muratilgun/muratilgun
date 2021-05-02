@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 </p>
 
 <details>
- <summary>_______________________________________________________________👉Click to expand👈_____________________________________________________________</summary>
+ <summary>________________________________________________________________👉Click to expand👈_____________________________________________________________</summary>
 
 - 🔭 I’m currently working on ... Make world great place again 🌍
 - 🌱 I’m currently learning ...  What do you want to teach me ❓
