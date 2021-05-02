@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...  👀👀 👂👂
 - 🤔 I’m looking for help with ................
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...     [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin")
+- 📫 How to reach me: ...     [![muratilgunlinkedin](https://www.linkpicture.com/q/LI-Logo-2.png "muratilgunlinkedin")](https://www.linkedin.com/in/muratilgun/ "muratilgunlinkedin") [✉️](mailto:muratilgun34@gmail.com)
 - 😄 Pronouns: ... Muro/Murat (Şahsına münasır)
 - ⚡ Fun fact: ... I tried to write all of  this at 2:20 midnight
--  [✉️](mailto:muratilgun34@gmail.com)
+-  
 </details>
 
