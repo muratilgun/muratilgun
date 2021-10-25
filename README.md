@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 </p>
 
 <details>
- <summary><b>____________________________________________________________👉Click to expand👈___________________________________________________________</b></summary>
+ <summary><b>👉Click to expand👈</b></summary>
 
 - 🔭 <b> I’m currently working on ... </b> Make world great place again 🌍
 - 🌱 <b> I’m currently learning ... </b> What do you want to teach me ❓ 
