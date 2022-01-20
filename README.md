@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 </details>
 
 
+![snake gif](https://github.com/muratilgun/muratilgun/blob/output/github-contribution-grid-snake.gif)
